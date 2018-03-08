@@ -1,0 +1,138 @@
+Best Seven (7) office application for Android
+
+
+<span style="font-size: 18px; line-height: 20px; color: white;"> Office apps have been a valuable center of productivity for many years. We use them for a variety of purposes, including drafting documents, creating spreadsheets and presentations, and keep track of what's going on. No productivity suite is complete without them and virtually everybody uses them, even kids. The office suite atmosphere has changed very little the last few years. However, the application themselves are better than they used to be. Here are the current best office application for Android! </span>
+
+&nbsp;
+<h3><strong>1 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Chrome-Remote-Desktop.png" alt="Chrome Remote Desktop" width="50" height="50" />   Chrome Remote Desktop</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">There’s a chance that none of the office apps on this list work for you. If that’s the case, you may want to pick up something like Chrome Remote Desktop. This application allows you to remote into your computer and use your computer like you normally would, except on your phone. It probably works best with tablets and with things like a Bluetooth keyboard, but you can access your office apps on your PC from your Android device, potentially bypassing the need for an office suite at all. It’s completely free to use. Teamviewer is another good application to do this. It doesn't require Google Chrome to use.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.google.chromeremotedesktop"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>2 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Docs-To-Go™-Free-Office-Suite.png" alt="Chrome Remote Desktop" width="50" height="50" />   Docs To Go™ Free Office Suite</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Docs to Go is an older app that’s been around for quite some time. However, it's still receiving new features and updates. It has the basics, such as word processing, spreadsheet editing, and presentation editing. It does an excellent job of letting you do these things without too much of a setup. The paid version unlocks password-locked files, saving to (and loading from) cloud storage sites, and file syncing with your desktop. It’s not great in every situation, but it's one of the more solid office application's.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.dataviz.docstogo"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>3 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/OfficeSuite-Free-Office-PDF-Editor.png" alt="Chrome Remote Desktop" width="50" height="50" />   OfficeSuite: Free Office + PDF Editor</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">OfficeSuite is a long time favorite for many people. The application has changed a lot from its early days. Currently, the developers seem to be transitioning the suite into something closer to Google Drive or Microsoft OneDrive. The idea is to have a cloud storage hub from which to work. Most of the basic features are available in the free version and that's good news. The paid version allows for PDF scanning, a font pack that’s compatible with Microsoft, a spell checker, and additional document support. It's one of the better run-of-the-mill office application's. It is also among the most expensive.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.mobisystems.office"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>4 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Quip.png" alt="Chrome Remote Desktop" width="50" height="50" />   Quip ￼</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Quip is one of the newer office application on the list. It's also one of the few free ones. It has a small, but decent set of features. That includes the ability to collaborate on documents with other people. It comes in the form of a chat that you can use to talk to people while editing documents. You'll also get a support for spreadsheets, cross-device syncing, offline support, and various exporting options. It also has cloud storage support. Quip hasn’t been around as long as other office application's, but it’s better than many of them.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.quip.quip"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>5 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Smart-Office-2.png" alt="Chrome Remote Desktop" width="50" height="50" />   Smart Office 2</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Smart Office 2 is another one of the rare free office application. The application used to cost money. However, at some point, they decided to let it go for free. It comes with all of the basic features as you’d expect, including support for word processing, spreadsheets, and presentations. It also comes with support for Microsoft Office documents from 2013 and back. You can also use it to view (and save) PDF files, some image files, and WMF and EMF file types. The interface is clean and simple. It's a good option for those who don't need much.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.picsel.tgv.app.smartoffice"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>6 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Softmaker-Office.png" alt="Chrome Remote Desktop" width="50" height="50" />   Softmaker Office</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Softmaker has a lot of office application. That includes a suite of free office application. They also have a suite of paid office apps. Both of them are pretty good. There are three apps in the suite, including TextMaker, PlanMaker, and Presentations which are just funny names for word processor, spreadsheet, and, well, presentations. Unlike most, the apps are completely free. Their features include PDF support, TrueType and OpenType fonts, and support for (most) Microsoft file types. You'll have to buy the paid versions of the apps separately. On the plus side, you can only buy what you need. On the negative side, all three application costs about $15.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=softmaker.applications.presentationstrial"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>7 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Google-Drive.png" alt="Chrome Remote Desktop" width="50" height="50" />   Google Drive</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Google Drive is a favorite among our readers and many others. It has a whole suite of office apps, including a PDF Viewer, Google Docs, Google Sheets, Google Slides, and, of course, Google Drive. Drive services as the hub. It's really just a cloud storage app where you can view your files or make new ones. Opening any document in your Google Drive will automatically open the appropriate app. It’s all completely free unless you need to expand your Google Drive space. All the apps are also quite simple to use. It's a good all-in-one solution for most people.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best Seven (7) document Scanner Application for Android
+
+
+
+<span style="font-size: 18px; line-height: 20px; color: white;"> Smartphones are useful for so many things. One of the less typical use cases are for digitizing documents. Its very helpful for things like scanning forms into PDF format, scanning receipts for taxes, and even scanning a filled out form for email. You are no doubt here because you fit into one of those use cases. Worry not because we can help. Here are the best document scanner application for Android! </span>
+
+&nbsp;
+<h3><strong>1 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Adobe-Scan.png" alt="Chrome Remote Desktop" width="50" height="50" />   Adobe Scan</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Adobe Scan is one of the newer document scanner apps. It does tick all of the important boxes, though. You can scan in documents and receipts like most. It also includes color presets to make the document more legible if needed. You can access scanned documents on your device as needed. You can send them via email or backup them up to the cloud if you want. Documents conversion to PDF is another feature that should be useful. The feature list isn't long, but it has the important stuff.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.adobe.scan.android"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>2 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/CamScanner.png" alt="Chrome Remote Desktop" width="50" height="50" />   CamScanner</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">CamScanner is among the most popular document scanner apps. It also has a laundry list of features. You can scan apps in. They're exportable to PDF or JPEG. Additionally, you can print using cloud printing or even fax documents for a nominal fee. It also features native cloud support or cloud support for Drive, Dropbox, or Box. There are even collaboration features. You can get most of the basic features for free. Another option is to subscribe to the service for $4.99. That should unlock every feature for those who really need it.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.intsig.camscannerhd"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>3 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Clear-Scanner-Free-PDF-Scans.png" alt="Chrome Remote Desktop" width="50" height="50" />   Clear Scanner - Free PDF Scans</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Clear Scanner is a lightweight option for document scanner apps. It boasts fast processing speeds as well as cloud support for Google Drive, OneDrive, and Dropbox. Options for converting files include JPEG or PDF depending on whether or you scan an image or a proper document. Some other features include a small app size, organization features, editing options, and more. You can get the application for free or pay the $2.49 for the pro version.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.indymobileapp.document.scanner"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>4 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Document-Scanner.png" alt="Chrome Remote Desktop" width="50" height="50" />   Document Scanner ￼</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Document Scanner bills itself as an all-in-one scanning solution. It has most of the basic features like PDF conversion, scanning, OCR support, and others. However, it also includes a QR code scanner and image support. Thus, you can use this to scan practically anything. It even has a feature to turn on a flashlight in a low-light environment. It's definitely one of the more powerful document scanner apps. That's just how these things work. Still, it's a great option for those who need to kill several birds with one stone.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.cv.docscanner"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>5 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Fast-Scanner.png" alt="Chrome Remote Desktop" width="50" height="50" />   Fast Scanner</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Fast Scanner a solid scanner application. You'll find most of the typical features. That includes PDF and JPEG support, document scanning, and some editing features. It also supports cloud printing. The developer also has a fax sending application that works in case you need to fax documents. The free version seems to limit the number of documents you can scan. The pro version removes this restriction.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.coolmobilesolution.fastscannerfree"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>6 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Genius-Scan.png" alt="Chrome Remote Desktop" width="50" height="50" />   Genius Scan</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Genius Scan is another of the most popular document scanner application out there. It supports the key features for document scanning, conversion, and sharing. It also boasts features to improve scanning of things like school notes, whiteboards, and other items that could be useful when digitized. Like Fast Scanner, these developers also have a separate application for faxing if you need to do that. Otherwise, it's a solid free/paid option.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+&nbsp;
+<h3><strong>7 .  <img class="size-full wp-image-4783" src="http://www.thehdtech.com/wp-content/uploads/2017/06/Tiny-Scanner.png" alt="Chrome Remote Desktop" width="50" height="50" />   Tiny Scanner</strong></h3>
+<span style="font-size: 18px; line-height: 20px; color: white;">Tiny Scanner is one of the better document scanner application. You'll find support for most of the standard features. Like most, documents save in PDF files for future use. The app also features five levels of contrast, a quick search, and support for most of the big cloud storage services. The developers also have a fax application. You can use it to fax documents after making them. It shares a lot of the same features as Simple Scan. Either one should be good enough.</span>
+<a target="_blank" class="btn medium white" href="#"><span><i class="fa fa-download"></i> Download APK</span></a> &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" class="btn medium active" href="https://play.google.com/store/apps/details?id=com.appxy.tinyscanner"><span><i class="fa fa-play"></i> Get it on Play Store</span></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OnePlus 5
+
+<h3>- OnePlus 5 Specifications</h3>
+
+The OnePlus 5 mobile features a 5.5" (13.97 cm) display and runs on Android v7.1.1 (Nougat) operating system. The device is powered by a Octa core (2.45 GHz, Quad core, Kryo 280 + 1.9 GHz, Quad core, Kryo 280) processor paired with 6 GB of RAM. As far as the battery is concerned it has 3300 mAh. Over that, as far as the rear camera is concerned this mobile has a 16 MP camera and the front snapper is powered by a Exmor RS sensor.
